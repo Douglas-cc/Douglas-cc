@@ -8,13 +8,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="c" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   
-  <img align="center" alt="node" height="35" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+  <img align="center" alt="r" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
   
   <img align="center" alt="" height="35" wight="40" src="https://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/img/logo_tidyverse.png"/>
-
-  <img align="center" alt="r" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
   
   <img align="center" alt="py" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     
