@@ -10,14 +10,10 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="r" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
-  
-  <img align="center" alt="" height="35" wight="40" src="https://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/img/logo_tidyverse.png"/>
-  
-  <img align="center" alt="py" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    
+      
   <img align="center" alt="numpy" height="35" wight="40" src="https://numpy.org/doc/stable/_static/numpylogo.svg"/>
   
-  <img align="center" alt="pandas" height="35" wight="40" src="https://i.redd.it/c6h7rok9c2v31.jpg">
+  <img align="center" alt="pandas" height="35" wight="40" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png">
     
   <img align="center" alt="sklearn" height="35" wight="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png">
   
