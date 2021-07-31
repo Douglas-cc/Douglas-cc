@@ -9,15 +9,15 @@
   
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="r" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
+  <img align="center" alt="r" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
       
-  <img align="center" alt="numpy" height="35" wight="40" src="https://numpy.org/doc/stable/_static/numpylogo.svg"/>
+  <img align="center" alt="numpy" height="35" wight="45" src="https://numpy.org/doc/stable/_static/numpylogo.svg"/>
   
-  <img align="center" alt="pandas" height="35" wight="40" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png">
+  <img align="center" alt="pandas" height="35" wight="45" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png">
     
-  <img align="center" alt="sklearn" height="35" wight="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png">
+  <img align="center" alt="sklearn" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png">
   
-  <img align="center" alt="seaborn" height="35" wight="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
+  <img align="center" alt="seaborn" height="35" wight="45" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
   
   <img  align="center" alt="tensorflow" height="35" wight="40" src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/tensorflow/images/lockup.svg" />
 </div>
