@@ -1,5 +1,8 @@
 ## Seja Bem Vindo. Eu sou o Douglas 👋
 
+Acadêmico de Ciência da Computação, tenho experiência em pesquisa científica com foco em mineração de dados, aprendizado de máquina, desenvolvimento backend com nodeJs e automação de tarefas. Gosto de unir teoria computacional e pratica para resolver problemas do mundo real, apaixonado pelo mundo open-source, dados abertos e métodologias ágeis
+
+
 <div>
   <a href="https://github.com/Douglas-cc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas-cc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
