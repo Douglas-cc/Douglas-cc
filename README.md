@@ -1,8 +1,6 @@
 ## Seja Bem Vindo. Eu sou o Douglas 👋
 
-Acadêmico de Ciência da Computação, tenho experiência em pesquisa científica com foco em mineração de dados, aprendizado de máquina, desenvolvimento 
-backend com nodeJs e automação de tarefas. Gosto de unir teoria computacional e pratica para resolver problemas do mundo real, apaixonado pelo mundo
-open-source, dados abertos e métodologias ágeis
+
 
 
 <div>
