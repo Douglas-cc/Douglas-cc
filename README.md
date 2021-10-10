@@ -27,6 +27,9 @@ open-source, dados abertos e métodologias ágeis
   <img  align="center" alt="tensorflow" height="35" wight="40" src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/tensorflow/images/lockup.svg"/>
   
   <img  align="center" alt="keras" height="35" wight="40" src="https://keras.io/img/logo-k-keras-wb.png"/>
+  
+  <img  align="center" alt="keras" height="35" wight="40" src="https://miro.medium.com/max/1572/0*rkvCtlgST21EsarU.png"/>
+  
 </div>
   
 ##
