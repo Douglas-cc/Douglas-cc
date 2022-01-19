@@ -1,9 +1,7 @@
 ## Seja Bem Vindo. Eu sou o Douglas 👋
 
 
-Acadêmico de Ciência da Computação, tenho experiência em pesquisa científica com foco em mineração de dados, aprendizado de máquina, desenvolvimento 
-backend com nodeJs e automação de tarefas. Gosto de unir teoria computacional e pratica para resolver problemas do mundo real, apaixonado pelo mundo
-open-source, dados abertos e métodologias ágeis
+Acadêmico de Ciência da computação, tenho experiencia com programação de microcontroladores, desenvolvimento back-end e ciência de dados já no âmbito acadêmico atuei na modelagem de sistemas preditivos e classificadores climáticos pelo período de 1 ano com dados do instituto nacional de Meteorologia e hoje estou como bolsista de iniciação cientifica PIC-PROBIC UNIFAP onde o foco da pesquisa é extração de features de áudio e desenvolvimento de um classificador automático de gêneros musicais amazônicos e sou estagiário de ciência de dados na A3DATA.  Costumo dizer que sou o tipo de pessoa que gosto de unir teoria computacional e pratica para resolver problemas do mundo real, apaixonado pelo mundo open-source, dados abertos, metodologias ágeis e por tudo o que isso pode fazer para facilitar a vida das pessoas.
 
 <div>
   <a href="https://github.com/Douglas-cc">
