@@ -28,7 +28,7 @@ Acadêmico de Ciência da computação, tenho experiencia com programação de m
   
   <img align="center" alt="sklearn" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png">
   
-  <img align="center" alt="pygame" height="35" wight="45" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67">
+  <img align="center" alt="pygame" height="45" wight="55" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67">
   
   
 </div>
