@@ -14,9 +14,9 @@ Acadêmico de Ciência da computação, tenho experiencia com programação de m
   
   <img align="center" alt="r" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
       
-  <img align="center" alt="numpy" height="35" wight="45" src="https://numpy.org/doc/stable/_static/numpylogo.svg"/>
+  <img align="center" alt="numpy" height="35" wight="45" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
   
-  <img align="center" alt="pandas" height="35" wight="45" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png">
+  <img align="center" alt="pandas" height="35" wight="45" src="https://e7.pngegg.com/pngimages/467/65/png-clipart-docker-microservices-application-software-cloud-computing-software-deployment-cloud-computing-text-logo.png">
     
   <img align="center" alt="sklearn" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png">
   
