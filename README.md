@@ -18,8 +18,6 @@ Acadêmico de Ciência da computação, tenho experiencia com programação de m
   
   <img align="center" alt="docker" height="45" wight="55" src="https://e7.pngegg.com/pngimages/467/65/png-clipart-docker-microservices-application-software-cloud-computing-software-deployment-cloud-computing-text-logo.png">
     
-  <img align="center" alt="sklearn" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png">
-  
   <img align="center" alt="postgresql" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
   
   <img  align="center" alt="tensorflow" height="35" wight="40" src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/tensorflow/images/lockup.svg"/>
@@ -27,6 +25,11 @@ Acadêmico de Ciência da computação, tenho experiencia com programação de m
   <img  align="center" alt="linux" height="45" wight="55" src="https://www.hostingireland.news/wp-content/uploads/2010/10/linux_PNG29.png"/>
   
   <img  align="center" alt="pyspark" height="35" wight="40" src="https://miro.medium.com/max/1572/0*rkvCtlgST21EsarU.png"/>
+  
+  <img align="center" alt="sklearn" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png">
+  
+  <img align="center" alt="pygame" height="35" wight="45" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67">
+  
   
 </div>
   
