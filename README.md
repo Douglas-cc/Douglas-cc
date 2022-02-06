@@ -14,19 +14,19 @@ Acadêmico de Ciência da computação, tenho experiencia com programação de m
   
   <img align="center" alt="r" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
       
-  <img align="center" alt="numpy" height="35" wight="45" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
+  <img align="center" alt="fastapi" height="35" wight="45" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
   
-  <img align="center" alt="pandas" height="35" wight="45" src="https://e7.pngegg.com/pngimages/467/65/png-clipart-docker-microservices-application-software-cloud-computing-software-deployment-cloud-computing-text-logo.png">
+  <img align="center" alt="docker" height="45" wight="55" src="https://e7.pngegg.com/pngimages/467/65/png-clipart-docker-microservices-application-software-cloud-computing-software-deployment-cloud-computing-text-logo.png">
     
   <img align="center" alt="sklearn" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png">
   
-  <img align="center" alt="seaborn" height="35" wight="45" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
+  <img align="center" alt="postgresql" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
   
   <img  align="center" alt="tensorflow" height="35" wight="40" src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/tensorflow/images/lockup.svg"/>
   
-  <img  align="center" alt="keras" height="35" wight="40" src="https://keras.io/img/logo-k-keras-wb.png"/>
+  <img  align="center" alt="keras" height="35" wight="40" src="https://mpng.subpng.com/20180729/ss/kisspng-penguin-tux-linux-kernel-vectorlinux-python-stickers-5b5d465b9990e8.352894071532839515629.jpg"/>
   
-  <img  align="center" alt="keras" height="35" wight="40" src="https://miro.medium.com/max/1572/0*rkvCtlgST21EsarU.png"/>
+  <img  align="center" alt="pyspark" height="35" wight="40" src="https://miro.medium.com/max/1572/0*rkvCtlgST21EsarU.png"/>
   
 </div>
   
