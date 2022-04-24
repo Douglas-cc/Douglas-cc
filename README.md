@@ -1,7 +1,9 @@
-## Seja Bem Vindo. Eu sou o Douglas 👋
+## Welcome. My name is Douglas 👋
+Computer Science student, I have experience with microcontroller programming, back-end development and data science. I have worked in Junior, startup, freelancer and consulting companies.
 
+In the academic field I worked in the modeling of predictive systems and climate classifiers with data from the National Institute of Meteorology for 1 year, prediction of the price of gasoline in the state of Amapá and today I am a PIC-PROBIC UNIFAP scientific initiation scholarship where the focus of the research is Music Information Retrieval (MIR) modeling of classifiers of Amazonian music genres that aims to deploy.
 
-Acadêmico de Ciência da computação, tenho experiencia com programação de microcontroladores, desenvolvimento back-end e ciência de dados já no âmbito acadêmico atuei na modelagem de sistemas preditivos e classificadores climáticos pelo período de 1 ano com dados do instituto nacional de Meteorologia, predição do preço da gasolina no estado do Amapá e hoje estou como bolsista de iniciação cientifica PIC-PROBIC UNIFAP onde o foco da pesquisa é extração de features de áudio e desenvolvimento de um classificador automático de gêneros musicais amazônicos e sou estagiário de ciência de dados na A3DATA.  Costumo dizer que sou o tipo de pessoa que gosto de unir teoria computacional e pratica para resolver problemas do mundo real, apaixonado pelo mundo open-source, dados abertos, metodologias ágeis e por tudo o que isso pode fazer para facilitar a vida das pessoas.
+I'm the type of person who believes that computing is one of the greatest ways to solve real-world problems, passionate about the open-source world, open data, agile methodologies and everything it can do to make people's lives easier.
 
 <div>
   <a href="https://github.com/Douglas-cc">
