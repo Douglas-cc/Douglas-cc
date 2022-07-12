@@ -18,7 +18,7 @@ I'm the type of person who believes that computing is one of the greatest ways t
       
   <img align="center" alt="fastapi" height="35" wight="45" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
   
-  <img align="center" alt="docker" height="45" wight="55" src="https://e7.pngegg.com/pngimages/467/65/png-clipart-docker-microservices-application-software-cloud-computing-software-deployment-cloud-computing-text-logo.png">
+  <img align="center" alt="librosa" height="45" wight="55" src="https://librosa.org/blog/images/librosa_logo.png">
     
   <img align="center" alt="postgresql" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
   
