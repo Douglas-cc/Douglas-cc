@@ -22,7 +22,7 @@ I'm the type of person who believes that computing is one of the greatest ways t
     
   <img align="center" alt="postgresql" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
   
-  <img  align="center" alt="tensorflow" height="35" wight="40" src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/tensorflow/images/lockup.svg"/>
+  <img  align="center" alt="tensorflow" height="35" wight="40" src="https://www.gstatic.com/devrel-devsite/prod/v9eb0a68c50fa0c6b1afdb82e43cb226b708457a7baa5e30ae58e6622680d91f8/tensorflow/images/lockup.svg"/>
   
   <img  align="center" alt="linux" height="45" wight="55" src="https://www.hostingireland.news/wp-content/uploads/2010/10/linux_PNG29.png"/>
   
