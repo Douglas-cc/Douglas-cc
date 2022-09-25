@@ -19,8 +19,6 @@ I'm the type of person who believes that computing is one of the greatest ways t
   <img align="center" alt="fastapi" height="35" wight="45" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
   
   <img align="center" alt="librosa" height="45" wight="55" src="https://librosa.org/images/librosa_logo_text.png">
-    
-  <img align="center" alt="postgresql" height="35" wight="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
   
   <img  align="center" alt="tensorflow" height="35" wight="40" src="https://www.gstatic.com/devrel-devsite/prod/v9eb0a68c50fa0c6b1afdb82e43cb226b708457a7baa5e30ae58e6622680d91f8/tensorflow/images/lockup.svg"/>
   
