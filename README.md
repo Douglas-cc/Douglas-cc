@@ -1,11 +1,13 @@
 ## Welcome. My name is Douglas 👋
-I graduated in Computer Science and I have experience in programming microcontrollers, back-end development, data science and engineering. I have also worked in junior companies, startups, as a freelancer, consulting and retail and technology companies.
+I hold a Bachelor’s degree in Computer Science with experience in data science, data engineering, and back-end development. I have worked in junior companies, startups, as a freelancer, in consulting, in retail, in technology companies, and I currently work at the Electoral Justice.
 
-In the academic field, I worked for one year on the modeling of predictive systems and climate classifiers with data from the National Institute of Meteorology, predicting the price of gasoline in the state of Amapá. And for another year, I was a PIC-PROBIC UNIFAP scientific initiation scholarship holder, where my research is focused on the modeling of Music Information Retrieval (MIR) of Amazonian musical genres classifiers, musical instrument classification and classification.
+In the academic field, I spent one year working on predictive system modeling and climate classifiers using data from the National Institute of Meteorology, predicting gasoline prices in the state of Amapá. Later, I was a PIC-PROBIC UNIFAP scientific initiation fellow, where my research focused on Music Information Retrieval (MIR), including classifiers of Amazonian musical genres and musical instrument classification.
 
-I can work in junior companies, startups and consulting companies, doing everything from building APIs, RPA, exploratory analysis and modeling of machine learning algorithms, multi-objective mathematical optimization, creating APIs to serve machine learning models. I can also work with data processing on AWS, doing both ingestion and ETL and Athena queries.
+I have experience in building APIs, automation with RPA, exploratory data analysis and modeling of machine learning algorithms, multi-objective mathematical optimization, and creating APIs to serve machine learning models. I also work with data processing on AWS, from ingestion and ETL to queries in Athena.
 
-All this baggage and added to the daily contact with the team, allowed me to develop communication, a sense of collectivity and imagine how the deliveries can or may not have a positive impact on the business and always envision what can be done to improve a specific solution or solve everyday problems.
+Currently, I am deepening my knowledge and practice in RAG (Retrieval-Augmented Generation) and LLMs (Large Language Models), aiming to integrate these solutions into real-world scenarios to optimize processes, enhance decision-making, and expand the possibilities of intelligent automation.
+
+This background, combined with daily collaboration in multidisciplinary teams, has allowed me to develop strong communication, teamwork, and the ability to understand how each delivery can positively impact the business, always envisioning ways to improve solutions and solve everyday challenges.
 
   
 </div>
